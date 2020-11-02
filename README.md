@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Redis 6 新特性](https://www.zeekling.cn/articles/2020/11/01/1604242049779.html)
 * [docker镜像安装oracle](https://www.zeekling.cn/articles/2020/10/29/1603902984323.html)
 * [vscode 查看Redis源码](https://www.zeekling.cn/articles/2020/10/20/1603198382711.html)
 * [周末唐爵山宿](https://www.zeekling.cn/articles/2020/10/18/1603029580658.html)
@@ -29,7 +30,6 @@
 * [Redis 数据结构 skiplist](https://www.zeekling.cn/articles/2020/08/30/1598796820320.html)
 * [bolo 编译镜像添加jvm参数](https://www.zeekling.cn/articles/2020/08/25/1598324985257.html)
 * [bolo博客图片加载优化](https://www.zeekling.cn/articles/2020/08/23/1598162245995.html)
-* [bolo博客图片显示优化](https://www.zeekling.cn/articles/2020/08/21/1597945367713.html)
 
 
 
