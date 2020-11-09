@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [【Redis源码】setrange命令](https://www.zeekling.cn/articles/2020/11/08/1604841590957.html)
+* [【Redis源码】append命令](https://www.zeekling.cn/articles/2020/11/08/1604838367145.html)
+* [【Redis源码】mset命令](https://www.zeekling.cn/articles/2020/11/08/1604831354258.html)
 * [【Redis源码】setnx、setex、psetex命令](https://www.zeekling.cn/articles/2020/11/08/1604821520818.html)
 * [【Redis源码】Redis Set命令详解](https://www.zeekling.cn/articles/2020/11/08/1604816679827.html)
 * [人生第一次（上学）](https://www.zeekling.cn/articles/2020/11/08/1604808358057.html)
@@ -27,9 +30,6 @@
 * [gitea 使用jenkins 自动ci ](https://www.zeekling.cn/articles/2020/09/13/1600002728592.html)
 * [留言板](https://www.zeekling.cn/guestbook.html)
 * [呼不上来请留言](https://www.zeekling.cn/articles/2020/09/05/1599314330828.html)
-* [Redis 的安装使用](https://www.zeekling.cn/articles/2020/09/05/1599311518945.html)
-* [bolo-fantastic皮肤整改](https://www.zeekling.cn/articles/2020/09/04/1599150574976.html)
-* [Redis 学习知识点总结](https://www.zeekling.cn/articles/2020/09/01/1598892381872.html)
 
 
 
