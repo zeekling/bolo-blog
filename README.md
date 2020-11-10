@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [当Redis数据磁盘坏掉之后会发生什么](https://www.zeekling.cn/articles/2020/11/09/1604937462651.html)
 * [【Redis源码】setrange命令](https://www.zeekling.cn/articles/2020/11/08/1604841590957.html)
 * [【Redis源码】append命令](https://www.zeekling.cn/articles/2020/11/08/1604838367145.html)
 * [【Redis源码】mset命令](https://www.zeekling.cn/articles/2020/11/08/1604831354258.html)
@@ -29,7 +30,6 @@
 * [【Redis源码】Redis 启动过程分析](https://www.zeekling.cn/articles/2020/09/25/1601041404734.html)
 * [gitea 使用jenkins 自动ci ](https://www.zeekling.cn/articles/2020/09/13/1600002728592.html)
 * [留言板](https://www.zeekling.cn/guestbook.html)
-* [呼不上来请留言](https://www.zeekling.cn/articles/2020/09/05/1599314330828.html)
 
 
 
