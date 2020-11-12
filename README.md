@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [【Redis源码】mget命令](https://www.zeekling.cn/articles/2020/11/11/1605109223498.html)
+* [【Redis源码】strlen命令](https://www.zeekling.cn/articles/2020/11/11/1605098851638.html)
 * [当Redis数据磁盘坏掉之后会发生什么](https://www.zeekling.cn/articles/2020/11/09/1604937462651.html)
 * [【Redis源码】setrange命令](https://www.zeekling.cn/articles/2020/11/08/1604841590957.html)
 * [【Redis源码】append命令](https://www.zeekling.cn/articles/2020/11/08/1604838367145.html)
@@ -28,8 +30,6 @@
 * [kali rolling 跟新后连不上wifi修复](https://www.zeekling.cn/articles/2020/09/26/1601093208586.html)
 * [kali rolling linux 安装BCM43142网卡驱动](https://www.zeekling.cn/articles/2020/09/26/1601091635148.html)
 * [【Redis源码】Redis 启动过程分析](https://www.zeekling.cn/articles/2020/09/25/1601041404734.html)
-* [gitea 使用jenkins 自动ci ](https://www.zeekling.cn/articles/2020/09/13/1600002728592.html)
-* [留言板](https://www.zeekling.cn/guestbook.html)
 
 
 
