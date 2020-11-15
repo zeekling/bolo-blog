@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [【Redis源码】setbit命令](https://www.zeekling.cn/articles/2020/11/14/1605354792615.html)
 * [【Redis源码】mget命令](https://www.zeekling.cn/articles/2020/11/11/1605109223498.html)
 * [【Redis源码】strlen命令](https://www.zeekling.cn/articles/2020/11/11/1605098851638.html)
 * [当Redis数据磁盘坏掉之后会发生什么](https://www.zeekling.cn/articles/2020/11/09/1604937462651.html)
@@ -29,7 +30,6 @@
 * [朋友十一结婚](https://www.zeekling.cn/articles/2020/10/05/1601902748431.html)
 * [kali rolling 跟新后连不上wifi修复](https://www.zeekling.cn/articles/2020/09/26/1601093208586.html)
 * [kali rolling linux 安装BCM43142网卡驱动](https://www.zeekling.cn/articles/2020/09/26/1601091635148.html)
-* [【Redis源码】Redis 启动过程分析](https://www.zeekling.cn/articles/2020/09/25/1601041404734.html)
 
 
 
