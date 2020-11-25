@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [【Redis源码】RDB持久化源码实现](https://www.zeekling.cn/articles/2020/11/25/1606235262538.html)
 * [【Redis源码】Redis 6 ACL源码详解](https://www.zeekling.cn/articles/2020/11/22/1606060178482.html)
 * [Redis 6.0新特性——ACLs](https://www.zeekling.cn/articles/2020/11/22/1606048977051.html)
 * [【leetCode】整数反转](https://www.zeekling.cn/articles/2020/11/18/1605713678816.html)
@@ -29,7 +30,6 @@
 * [周末唐爵山宿](https://www.zeekling.cn/articles/2020/10/18/1603029580658.html)
 * [【Redis源码】Redis命令执行过程](https://www.zeekling.cn/articles/2020/10/09/1602258239840.html)
 * [秦时明月沧海横流开播](https://www.zeekling.cn/articles/2020/10/08/1602135156440.html)
-* [【Redis源码】Redis事件监听](https://www.zeekling.cn/articles/2020/10/06/1601975298948.html)
 
 
 
