@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [写年终总结的第二年](https://www.zeekling.cn/articles/2020/12/25/1608896366398.html)
 * [Redis 6 客户端缓存](https://www.zeekling.cn/articles/2020/12/16/1608129353447.html)
 * [【Redis源码】RDB持久化源码实现](https://www.zeekling.cn/articles/2020/11/25/1606235262538.html)
 * [【Redis源码】Redis 6 ACL源码详解](https://www.zeekling.cn/articles/2020/11/22/1606060178482.html)
@@ -29,7 +30,6 @@
 * [docker镜像安装oracle](https://www.zeekling.cn/articles/2020/10/29/1603902984323.html)
 * [vscode 查看Redis源码](https://www.zeekling.cn/articles/2020/10/20/1603198382711.html)
 * [周末唐爵山宿](https://www.zeekling.cn/articles/2020/10/18/1603029580658.html)
-* [【Redis源码】Redis命令执行过程](https://www.zeekling.cn/articles/2020/10/09/1602258239840.html)
 
 
 
