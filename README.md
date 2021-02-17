@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [2021年计划](https://www.zeekling.cn/articles/2021/02/17/1613545728619.html)
 * [Redis 6.0新特性----RESP3协议](https://www.zeekling.cn/articles/2021/01/10/1610263628832.html)
 * [写年终总结的第二年](https://www.zeekling.cn/articles/2020/12/25/1608896366398.html)
 * [Redis 6 客户端缓存](https://www.zeekling.cn/articles/2020/12/16/1608129353447.html)
@@ -29,7 +30,6 @@
 * [人生第一次（上学）](https://www.zeekling.cn/articles/2020/11/08/1604808358057.html)
 * [Redis 6 新特性](https://www.zeekling.cn/articles/2020/11/01/1604242049779.html)
 * [docker镜像安装oracle](https://www.zeekling.cn/articles/2020/10/29/1603902984323.html)
-* [vscode 查看Redis源码](https://www.zeekling.cn/articles/2020/10/20/1603198382711.html)
 
 
 
