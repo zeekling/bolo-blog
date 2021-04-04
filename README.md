@@ -5,11 +5,12 @@
 <h4 align="center">梅干菜你个小酥饼哦。</h4>
 <p align="center"><a title="小令童鞋" target="_blank" href="https://github.com/zeekling/bolo-blog"><img src="https://img.shields.io/github/last-commit/zeekling/bolo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/zeekling/bolo-blog"><img src="https://img.shields.io/github/repo-size/zeekling/bolo-blog.svg?style=flat-square"></a>
-<a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.3 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.4 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/zeekling/bolo-blog.svg"></a></p>
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.zeekling.cn/github)
 * [Linux sogou输入法显示简体，输入之后却是繁体](https://www.zeekling.cn/articles/2021/03/25/1616675636194.html)
 * [2021年计划](https://www.zeekling.cn/articles/2021/02/17/1613545728619.html)
 * [Redis 6.0新特性----RESP3协议](https://www.zeekling.cn/articles/2021/01/10/1610263628832.html)
@@ -29,7 +30,6 @@
 * [【Redis源码】setnx、setex、psetex命令](https://www.zeekling.cn/articles/2020/11/08/1604821520818.html)
 * [【Redis源码】Redis Set命令详解](https://www.zeekling.cn/articles/2020/11/08/1604816679827.html)
 * [人生第一次（上学）](https://www.zeekling.cn/articles/2020/11/08/1604808358057.html)
-* [Redis 6 新特性](https://www.zeekling.cn/articles/2020/11/01/1604242049779.html)
 
 
 
