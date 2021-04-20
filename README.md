@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [关于Redis 6 ACL特性的思考](https://www.zeekling.cn:8080/articles/2021/04/19/1618845188228.html)
 * [我在 GitHub 上的开源项目](https://www.zeekling.cn:8080/github)
 * [Linux sogou输入法显示简体，输入之后却是繁体](https://www.zeekling.cn:8080/articles/2021/03/25/1616675636194.html)
 * [2021年计划](https://www.zeekling.cn:8080/articles/2021/02/17/1613545728619.html)
@@ -29,7 +30,6 @@
 * [【Redis源码】mset命令](https://www.zeekling.cn:8080/articles/2020/11/08/1604831354258.html)
 * [【Redis源码】setnx、setex、psetex命令](https://www.zeekling.cn:8080/articles/2020/11/08/1604821520818.html)
 * [【Redis源码】Redis Set命令详解](https://www.zeekling.cn:8080/articles/2020/11/08/1604816679827.html)
-* [人生第一次（上学）](https://www.zeekling.cn:8080/articles/2020/11/08/1604808358057.html)
 
 
 
