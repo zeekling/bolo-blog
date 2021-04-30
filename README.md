@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [idea卡顿且报错：UI was frozen for xxxxx ms问题解决](https://www.zeekling.cn:8080/articles/2021/04/30/1619715915118.html)
 * [关于Redis 6 ACL特性的思考](https://www.zeekling.cn:8080/articles/2021/04/19/1618845188228.html)
 * [我在 GitHub 上的开源项目](https://www.zeekling.cn:8080/github)
 * [Linux sogou输入法显示简体，输入之后却是繁体](https://www.zeekling.cn:8080/articles/2021/03/25/1616675636194.html)
@@ -29,7 +30,6 @@
 * [【Redis源码】append命令](https://www.zeekling.cn:8080/articles/2020/11/08/1604838367145.html)
 * [【Redis源码】mset命令](https://www.zeekling.cn:8080/articles/2020/11/08/1604831354258.html)
 * [【Redis源码】setnx、setex、psetex命令](https://www.zeekling.cn:8080/articles/2020/11/08/1604821520818.html)
-* [【Redis源码】Redis Set命令详解](https://www.zeekling.cn:8080/articles/2020/11/08/1604816679827.html)
 
 
 
